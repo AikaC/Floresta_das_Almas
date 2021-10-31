@@ -13,7 +13,7 @@ label start:
  nvle "Nossos guerreiros eram conhecidos por obter a força de seus oponentes."
  nvle "Hoje,"
  nvle "cansados de tanto correr mata a dentro,"
- nvle "perseguidos por um mal que nunca havia se manidestado antes."
+ nvle "perseguidos por um mal que nunca havia se manifestado antes."
  nvl clear
  nvle "Eu e meus amigos: Maya, Cauê e Jaci;"
  nvle "Estamos perdidos no meio da lendária {i}Floresta das Almas."
